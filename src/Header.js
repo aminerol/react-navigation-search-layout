@@ -8,8 +8,7 @@ import {
   View,
 } from 'react-native';
 import { withNavigation, HeaderBackButton } from 'react-navigation';
-import { getInset, getStatusBarHeight } from 'react-native-safe-area-view';
-import { isIphoneX } from 'react-native-iphone-x-helper';
+import { isIphoneX, getStatusBarHeight } from 'react-native-platform-helper';
 
 // @todo: make this work properly when in landscape
 const hasNotch = isIphoneX();

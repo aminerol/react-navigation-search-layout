@@ -1,7 +1,7 @@
 {
   "bundleDependencies": false,
   "dependencies": {
-    "react-native-iphone-x-helper": "^1.2.0",
+    "react-native-platform-helper": "^1.0.0",
     "react-native-platform-touchable": "^1.1.1"
   },
   "deprecated": false,
@@ -10,5 +10,33 @@
   "main": "index.js",
   "name": "react-navigation-search-layout",
   "types": "react-navigation-search-layout.d.ts",
-  "version": "1.0.0"
+  "version": "1.0.1",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aminerol/react-navigation-search-layout.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react",
+    "native",
+    "navigation",
+    "search",
+    "layout",
+    "react",
+    "native",
+    "search",
+    "layout",
+    "react",
+    "native",
+    "search"
+  ],
+  "author": "Amine Bl <zazamine8@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/aminerol/react-navigation-search-layout/issues"
+  },
+  "homepage": "https://github.com/aminerol/react-navigation-search-layout#readme"
 }
