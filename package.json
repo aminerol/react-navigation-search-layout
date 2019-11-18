@@ -1,7 +1,7 @@
 {
   "bundleDependencies": false,
   "dependencies": {
-    "react-native-platform-helper": "^1.0.0",
+    "react-native-platform-helper": "^1.0.1",
     "react-native-platform-touchable": "^1.1.1"
   },
   "deprecated": false,
@@ -10,7 +10,7 @@
   "main": "index.js",
   "name": "react-navigation-search-layout",
   "types": "react-navigation-search-layout.d.ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
